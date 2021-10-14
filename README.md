@@ -1,4 +1,4 @@
-# 关于模拟集成电路(Analog IC)设计的一些心得 - 不定期更新
+# 关于模拟集成电路(Analog IC)设计的一些心得 - 10/13/2021 更新
 
 ![Analog Design Octagon](https://www.researchgate.net/profile/Francesco-Chicco/publication/321093807/figure/fig1/AS:636338529390592@1528726336377/Behzad-Razavis-analog-design-octagon-illustrating-the-trade-offs-faced-in-the-design.png)
 
