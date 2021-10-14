@@ -2,7 +2,14 @@
 
 ![Analog Design Octagon](https://www.researchgate.net/profile/Francesco-Chicco/publication/321093807/figure/fig1/AS:636338529390592@1528726336377/Behzad-Razavis-analog-design-octagon-illustrating-the-trade-offs-faced-in-the-design.png)
 
-> **未经授权，请勿转载**
+> 原载于知乎专栏“[*通向模拟集成电路设计师之路*](https://zhuanlan.zhihu.com/p/54734023)”，后因文章编辑需频繁绑定/解绑+86手机号，故迁移至此。
+ 
+**未经授权，请勿转载**
+
+---
+> 更新部分：
+> - Tips·关于论文投稿
+---
 
 ## 目录
 
@@ -127,7 +134,7 @@
 
 （待续）
 
-## Tools·实用网址
+## Tools · 实用网址
 
 - [阻抗匹配计算器](https://home.sandiego.edu/~ekim/e194rfs01/jwmatcher/matcher2.html)，用于down/up conversion network参数计算非常方便
 - [ADI官网计算器](https://www.analog.com/en/design-center/interactive-design-tools/rf-impedance-matching-calculator.html)以供参考
