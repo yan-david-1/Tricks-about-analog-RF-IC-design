@@ -82,7 +82,7 @@
 
 （来自于数次review中发现的问题）：
 
-### Conf.和Trans./J.的审稿流程略有区别
+**Conf.和Trans./J.的审稿流程略有区别**
 
 - **Conf.**通常情况下各个AE将收到的论文分发给自己的**研究生**（每篇论文reviewer 3~5名），review的内容和周期相对而言都z比较简短（通常一个月之内便final），**但是——会议论文是没有argue/rebut环节的**，各个reviewer基于自己的判断给出accept，marginally  accept/reject，reject之后便结束评审，而author收到review之后也只是尽心论文修改/补充，不存在"纠正reviewer"。所以虽然会议论文短小精悍、命中率也相对高，但如果初稿论文逻辑不够清晰的话就容易gg。
 - **Trans./J呢周期就比较长**了，从投稿到第一次feedback一般在一个月左右（如果赶上某个reviewer太忙忘了回复等等，甚至可能会等两到三个月），reviewer一般由期刊的EIC/AE直接发给系统内“**有review资历”的博士、教授、业界senior designer**，故review的内容相对更加详实和harsh，往年一篇论文可能会经历submit->major revision->minor revision->accept/reject四个阶段（至少三个月），*近年来以TCAS-I为例，期刊有缩短评审周期的倾向*，即省略minor的步骤——这就意味着第一轮后的**major revision及response将会非常重要**。一般来说，收到comment都会比较negative，所以argue的内容切忌太过offensive。response一方面是给reviewer的回复，另一方面是给EIC/AE的澄清，讲理论、摆数据，make improvement and conclusion。除非你的老板是该期刊的AE或者IEEE Fellow，硬杠基本上没什么好下场。
@@ -90,7 +90,7 @@
 
 > 当一个外领域的reviewer拿到你的论文，同样是看不懂实验方法，A: “the reviewer is confused by xxx”和  B:“This paper doesn't make any sense / is  meaningless”造成的damage是完全不同的。所以，请牢记并非所有reviewer都是敌人，要做的是争取到多数reviewer站在你这一边，而不是逞口舌之快而得罪所有人、甚至把A变成B。
 
-### 其他建议
+**其他建议**
 
 1. 避免无目标海投——**每篇论文在投稿时要有针对性**，应对目标期刊进行量身定制(topic, intro, reference)，“use their language”，而不是从一开始便照着要多投不同刊物的目的来撰写。**即便是被A拒稿决定另投期刊B，一定要大改确保内容符合B的主题。** *e.g. 被TMTT拒稿的论文如果直接改投TCAS-I，十有八九连EIC/AE那一关都过不了，原因是不符合TCAS-I的subject，建议改投TMTT等等*
 
