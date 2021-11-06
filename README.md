@@ -84,7 +84,7 @@
 
 **Conf.和Trans./J.的审稿流程略有区别**
 
-- **Conf.**通常情况下各个AE将收到的论文分发给自己的**研究生**（每篇论文reviewer 3~5名），review的内容和周期相对而言都z比较简短（通常一个月之内便final），**但是——会议论文是没有argue/rebut环节的**，各个reviewer基于自己的判断给出accept，marginally  accept/reject，reject之后便结束评审，而author收到review之后也只是尽心论文修改/补充，不存在"纠正reviewer"。所以虽然会议论文短小精悍、命中率也相对高，但如果初稿论文逻辑不够清晰的话就容易gg。
+- **Conf.**通常情况下各个AE将收到的论文分发给自己的**研究生**（每篇论文reviewer 3~5名），review的内容和周期相对而言都z比较简短（通常一个月之内便final），**但是——会议论文是没有argue/rebut环节的**，各个reviewer基于自己的判断给出accept，marginally  accept/reject，reject之后便结束评审，而author收到review之后也只是进行论文修改/补充，不存在"纠正reviewer"。所以虽然会议论文短小精悍、命中率也相对高，但如果初稿论文逻辑不够清晰的话就容易gg。
 - **Trans./J呢周期就比较长**了，从投稿到第一次feedback一般在一个月左右（如果赶上某个reviewer太忙忘了回复等等，甚至可能会等两到三个月），reviewer一般由期刊的EIC/AE直接发给系统内“**有review资历”的博士、教授、业界senior designer**，故review的内容相对更加详实和harsh，往年一篇论文可能会经历submit->major revision->minor revision->accept/reject四个阶段（至少三个月），*近年来以TCAS-I为例，期刊有缩短评审周期的倾向*，即省略minor的步骤——这就意味着第一轮后的**major revision及response将会非常重要**。一般来说，收到comment都会比较negative，所以argue的内容切忌太过offensive。response一方面是给reviewer的回复，另一方面是给EIC/AE的澄清，讲理论、摆数据，make improvement and conclusion。除非你的老板是该期刊的AE或者IEEE Fellow，硬杠基本上没什么好下场。
 - **Conf.一般情况下是double-blind review，即作者和reviewer的身份信息完全隐去。Trans./ J. 通常作者信息对reviewer可见（反之则不是）**。虽然作为学者很多时候我们都expect everyone to be professional，但是不论是期刊还是会议，**很多时候reviewer未必都能做到客观公正 就事论事**（objective）——这就意味着你的cover letter也好、rebuttal  letter和response也好，都是一个比较tricky的过程，尊重自己成果的同时也请尊重EIC/AE以及那些非常mean的reviewer，不卑不亢好过上来就和看不见的reviwer battle
 
