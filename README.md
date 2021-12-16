@@ -84,19 +84,19 @@
 
 关于流片…
 
-1. 慎用Global connection
+**慎用Global connection**
 
-1. Floor plan尽早规划
+**Floor plan尽早规划**
 - 预留充足的pin（VDD，VSS）
 - 预留足够的spacing
 
-1.尽早查看fab厂提供的I/O以及ESD器件
+**尽早查看fab厂提供的I/O以及ESD器件**
 
-1.频繁与fab厂沟通
+**频繁与fab厂沟通**
 - 确认使用的PDK及DRC/LVS/PEX(QRC) rule是最新
 - Layout过程中遇到难以解决的error及时询问是否可以waive
 
-1.预留3至5天给提交前debug
+**预留3至5天给提交前debug**
 
 （待补全）
 
