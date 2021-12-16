@@ -1,4 +1,4 @@
-# 关于模拟集成电路(Analog IC)设计的一些心得 - 10/13/2021 更新
+# 关于模拟集成电路(Analog IC)设计的一些心得 - 12/16/2021 更新
 
 ![Analog Design Octagon](https://www.researchgate.net/profile/Francesco-Chicco/publication/321093807/figure/fig1/AS:636338529390592@1528726336377/Behzad-Razavis-analog-design-octagon-illustrating-the-trade-offs-faced-in-the-design.png)
 
@@ -9,7 +9,7 @@
 
 ---
 > 更新部分：
-> - Tips·关于论文投稿
+> - Tips·Tapeout中踩过的坑
 ---
 
 ## 目录
@@ -17,6 +17,7 @@
 - 前言
 - Tips·学习
 - Tips·设计
+- Tips·Tapeout中踩过的坑
 - Tips·关于论文投稿
 - Tips·关于就业
 - Tools/实用网址
@@ -78,6 +79,26 @@
 - Cadence每隔一段时间最好重启一次（尤其是在跑长时间仿真之前），曾经遇到过“同一电路，同一test bench，同一setup，同一server，结果就是不一样”的情况，重启之后瞬间恢复正常，但是没人知道为啥…
 
 （待续）
+
+## Tips·Tapeout中踩过的坑
+
+关于流片…
+
+1. 慎用Global connection
+
+1. Floor plan尽早规划
+- 预留充足的pin（VDD，VSS）
+- 预留足够的spacing
+
+1.尽早查看fab厂提供的I/O以及ESD器件
+
+1.频繁与fab厂沟通
+- 确认使用的PDK及DRC/LVS/PEX(QRC) rule是最新
+- Layout过程中遇到难以解决的error及时询问是否可以waive
+
+1.预留3至5天给提交前debug
+
+（待补全）
 
 ## Tips · 关于paper
 
