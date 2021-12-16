@@ -8,8 +8,9 @@
 **未经授权，请勿转载**
 
 ---
-> 更新部分：
-> - Tips·Tapeout中踩过的坑 （12/16/2021)
+> 新增部分：
+> - Tips·Tapeout踩过的坑 （12/16/2021)
+> - Tips·一些Cadence仿真的tricks（12/16/2021)
 > - Tips·关于论文投稿（10/13/2021）
 ---
 
@@ -70,7 +71,8 @@
 * 如果考虑流片的话，**mismatch与process variations**(PV)对于设计的影响一定要尽早考虑，Monte Carlo(mismatch/PV)和corner(fab/temperature, etc)仿真一定要认真分析，时间充裕的话前仿和后仿都要跑，结合layout设计反复修改以达到最优值。
 
   > 有不少文献中会提到"20%～40% of PV"，通常情况下指的是对于某项特定参数的parametric sweep（如MOSFET的阈值电压Vth）且往往针对数字系统——而非ADE XL中的MC仿真。对于模拟电路而言，为保证流片的可靠性，最好**使用foundry提供的完整模型**，而不是简单的SPICE模型。
-> [关于Monte Carlo的介绍可供参考](http://miscircuitos.com/monte-carlo-simulation-cadence-virtuoso/)
+
+* [关于Monte Carlo的介绍可供参考](http://miscircuitos.com/monte-carlo-simulation-cadence-virtuoso/)
 
 * **RF IC和Analo IC在layout design中应当区别对待**，对于一般的opamp、OTA，甚至中低频的AD/DA电路，layout设计所造成的performance degradation并不会太明显，但对于RF IC而言，往往光layout就可以花上两三个月进行设计，且前仿和后仿差别可能会非常大
 
@@ -81,7 +83,7 @@
 
 （待续）
 
-## Tips·Tapeout中踩过的坑
+## Tips·Tapeout踩过的坑
 
 关于流片…
 
@@ -100,6 +102,14 @@
 **预留3至5天给提交前debug**
 
 （待补全）
+
+## Tips·一些Cadence仿真小tricks
+
+**Local Optimization**
+
+**Specs设置(ADE XL/Assembler)**
+
+**Y vs Y plot**
 
 ## Tips · 关于paper
 
