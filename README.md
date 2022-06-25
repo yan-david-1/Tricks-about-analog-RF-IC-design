@@ -1,4 +1,4 @@
-# 关于模拟集成电路(Analog IC)设计的一些心得 - 12/16/2021 更新
+# 关于模拟集成电路(Analog IC)设计的一些心得 - 06/24/2022 更新
 
 ![Analog Design Octagon](./Behzad-Razavis-analog-design-octagon-illustrating-the-trade-offs-faced-in-the-design.png)
 
@@ -9,6 +9,7 @@
 
 ---
 > 新增部分：
+> - **Minor Edits (06/24/2022)**
 > - Tips·Tapeout踩过的坑 （12/16/2021)
 > - Tips·一些Cadence仿真的tricks（12/16/2021)
 > - Tips·关于论文投稿（10/13/2021）
