@@ -2,6 +2,8 @@
 
 ![Analog Design Octagon](https://www.researchgate.net/profile/Francesco-Chicco/publication/321093807/figure/fig1/AS:636338529390592@1528726336377/Behzad-Razavis-analog-design-octagon-illustrating-the-trade-offs-faced-in-the-design.png)
 
+
+
 > 原载于知乎专栏“[*通向模拟集成电路设计师之路*](https://zhuanlan.zhihu.com/p/54734023)”，后因文章编辑需频繁绑定/解绑+86手机号，故迁移至此。
 [-联系作者-](mailto:valiant.soil-0s@icloud.com)
  
@@ -203,6 +205,7 @@
   envSetVal("viva.polarGrid" "font" 'string "Times,14,-1,5,50,0,0,0,0,0")
   envSetVal("viva.smithGrid" "font" 'string "Times,14,-1,5,50,0,0,0,0,0")
   ```
+
 
 ## 附录
 
