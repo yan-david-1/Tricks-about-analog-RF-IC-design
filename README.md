@@ -1,4 +1,4 @@
-# 关于模拟集成电路(Analog IC)设计的一些心得 - 06/24/2022 更新
+# 关于模拟集成电路(Analog IC)设计的一些心得 - 08/12/2022 更新
 
 ![Analog Design Octagon](./Behzad-Razavis-analog-design-octagon-illustrating-the-trade-offs-faced-in-the-design.png)
 
@@ -10,7 +10,9 @@
 
 ---
 > 新增部分：
-> - **Minor Edits (06/24/2022)**
+> - **求职简历模板网址更新**
+> - **新增dBm功率转换表网址**
+> - Minor Edits (06/24/2022)
 > - Tips·Tapeout踩过的坑 （12/16/2021)
 > - Tips·一些Cadence仿真的tricks（12/16/2021)
 > - Tips·关于论文投稿（10/13/2021）
@@ -171,6 +173,7 @@
 
 ## Tools · 实用网址
 
+- [dBm-V转换表格](https://www.markimicrowave.com/blog/wp-content/uploads/2016/11/power-to-voltage.pdf)
 - [阻抗匹配计算器](https://home.sandiego.edu/~ekim/e194rfs01/jwmatcher/matcher2.html)，用于down/up conversion network参数计算非常方便
 - [ADI官网计算器](https://www.analog.com/en/design-center/interactive-design-tools/rf-impedance-matching-calculator.html)以供参考
 - 还是[关于传输线阻抗匹配计算及转换的网站 - 1](http://wcalc.sourceforge.net/about.html)
@@ -210,4 +213,4 @@
 
 ## 附录
 
-一个可供参考的[求职简历模板](https://ocs.fas.harvard.edu/files/ocs/files/phd_resume_cover_letters.pdf)（Ph.D. MS均适用）
+一个可供参考的[求职简历模板](https://hwpi.harvard.edu/files/ocs/files/phd_resume_cover_letters.pdf)（Ph.D. MS均适用）
