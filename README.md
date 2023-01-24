@@ -192,7 +192,7 @@
 * 一些修改Cadence Virtuoso仿真结果界面参数的快捷指令
 
   ```
-  envSetVal("viva.rectGraph" "background" 'string "white")
+  envSetVal("viva.graphFrame" "background" 'string "white")
   envSetVal("viva.trace" "lineThickness" 'string "thick")
   envSetVal("viva.graph" "titleFont" 'string "Times,14,-1,5,55,0,0,0,0,0")
   envSetVal("viva.axis" "font" 'string "Times,14,-1,5,50,0,0,0,0,0")
