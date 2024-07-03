@@ -213,4 +213,4 @@
 
 ## 附录
 
-一个可供参考的[求职简历模板](https://hwpi.harvard.edu/files/ocs/files/phd_resume_cover_letters.pdf)（Ph.D. MS均适用）
+一个可供参考的[求职简历模板](https://cdn-careerservices.fas.harvard.edu/wp-content/uploads/sites/161/2023/08/GSAS_phd_resume_cover_letters.pdf)（Ph.D. MS均适用）
